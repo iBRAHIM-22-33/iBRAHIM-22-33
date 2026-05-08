@@ -1,18 +1,21 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Md+Ibrahim" />
-</h1>
-<h3 align="center">Problem Solver | C | C++ | Java | Phitron Learner</h3>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Md+Ibrahim" /> </h1>
 
----
 
-## 🚀 Languages & Tools (Animated)
+<h3 align="center">Phitron Learner | Logic Builder | DSA Enthusiast</h3>
+
+## 🚀 Languages, Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode,idea&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C+Programming;C%2B%2B+Programming;Java+Programming" />
+  <img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programming;C%2B%2B+Programming;Java+Programming;Problem+Solving+Everyday" />
 </p>
 
 ---
@@ -33,12 +36,13 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Learning Problem Solving from Phitron
-- 💻 Practice with C, C++ and Java
-- 🎯 Focused on Logic Building & DSA
+- 🌱 Learning Problem Solving from **Phitron**
+- 💻 Practice with **C, C++ and Java**
+- 🎯 Focused on **Logic Building & Data Structures**
 - 🧩 Love solving programming problems daily
+- ⚙️ Code using **CodeBlocks, IntelliJ IDEA, VS Code & Notepad++**
 
 ---
 
